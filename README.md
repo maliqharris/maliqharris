@@ -7,7 +7,7 @@ As a visually oriented individual, I possess a keen eye for design and strive to
 
 ## Projects (click on image for video demo!)
 
-<a href="YOUR_VIDEOGAME_ARTIFACT_ARCHIVE_LINK">
+<a href="https://youtu.be/1IZ8W4Q6Ua4">
     <div style="display: flex; flex-direction: row; align-items: center;">
         <img src="https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp" alt="VideoGame Artifact Archive" width="300" height="200">
         <div>
