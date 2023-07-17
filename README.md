@@ -20,4 +20,13 @@ As a visually oriented individual, I possess a keen eye for design and strive to
         <h3>Reference Board Maker</h3>
         <p>A vision Board application that allows you to view all of your reference material at once while listening to some tunes!</p>
     </div>
+    
+</div>
+<div style="display: flex; flex-direction: row; align-items: center;">
+    <img src="https://i.giphy.com/media/Hc8FQwi0tMrBxsB2hs/giphy.webp" alt="UnityDemo" width="300" height="200">
+    <div>
+        <h3>Game Demo Unity/C#</h3>
+        <p>A short game demo where I made a turn based combat system, enemy spawner , and controllable character!</p>
+    </div>
+    
 </div>
