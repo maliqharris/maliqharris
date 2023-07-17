@@ -8,7 +8,7 @@ As a visually oriented individual, I possess a keen eye for design and strive to
 ## Projects (click on image for video demo!)
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="https://i.ytimg.com/an_webp/1IZ8W4Q6Ua4/mqdefault_6s.webp?du=3000&sqp=CLaQwaUG&rs=AOn4CLCOaNfbWV4NRMVVND_39lZcA619SA" alt="VideoGame Artifact Archive" width="300" height="200">
+    <img src="https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp" alt="VideoGame Artifact Archive" width="300" height="200">
     <div>
         <h3>VideoGame Artifact Archive</h3>
         <p>An application that allows you to view and download various videogame models, rendered in real time!</p>
