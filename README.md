@@ -7,32 +7,14 @@ As a visually oriented individual, I possess a keen eye for design and strive to
 
 ## Projects (click on image for video demo!)
 
-<a href="https://youtu.be/1IZ8W4Q6Ua4">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-        <img src="https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp" alt="VideoGame Artifact Archive" width="300" height="200">
-        <div>
-            <h3>VideoGame Artifact Archive</h3>
-            <p>An application that allows you to view and download various videogame models, rendered in real time!</p>
-        </div>
-    </div>
-</a>
+[![VideoGame Artifact Archive](https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp)](YOUR_VIDEOGAME_ARTIFACT_ARCHIVE_LINK)
+### VideoGame Artifact Archive
+An application that allows you to view and download various videogame models, rendered in real time!
 
-<a href="YOUR_REFERENCE_BOARD_MAKER_LINK">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-        <img src="https://i.giphy.com/media/kea1PyCHpR45XKtFj1/giphy.webp" alt="Reference Board Maker" width="300" height="200">
-        <div>
-            <h3>Reference Board Maker</h3>
-            <p>A vision Board application that allows you to view all of your reference material at once while listening to some tunes!</p>
-        </div>
-    </div>
-</a>
+[![Reference Board Maker](https://i.giphy.com/media/kea1PyCHpR45XKtFj1/giphy.webp)](YOUR_REFERENCE_BOARD_MAKER_LINK)
+### Reference Board Maker
+A vision Board application that allows you to view all of your reference material at once while listening to some tunes!
 
-<a href="YOUR_GAME_DEMO_LINK">
-    <div style="display: flex; flex-direction: row; align-items: center;">
-        <img src="https://i.giphy.com/media/Hc8FQwi0tMrBxsB2hs/giphy.webp" alt="UnityDemo" width="300" height="200">
-        <div>
-            <h3>Game Demo Unity/C#</h3>
-            <p>A short game demo where I made a turn-based combat system, enemy spawner, and controllable character!</p>
-        </div>
-    </div>
-</a>
+[![Game Demo Unity/C#](https://i.giphy.com/media/Hc8FQwi0tMrBxsB2hs/giphy.webp)](YOUR_GAME_DEMO_LINK)
+### Game Demo Unity/C#
+A short game demo where I made a turn-based combat system, enemy spawner, and controllable character!
