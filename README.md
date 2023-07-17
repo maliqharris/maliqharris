@@ -7,14 +7,14 @@ As a visually oriented individual, I possess a keen eye for design and strive to
 
 ## Projects (click on image for video demo!)
 
-[![VideoGame Artifact Archive](https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp | width=300)](https://youtu.be/1IZ8W4Q6Ua4)
+[![VideoGame Artifact Archive](https://i.giphy.com/media/7uZL4zmyJkvnzNbS8B/giphy.webp )](https://youtu.be/1IZ8W4Q6Ua4)
 ### VideoGame Artifact Archive
 An application that allows you to view and download various videogame models, rendered in real time!
 
-[![Reference Board Maker](https://i.giphy.com/media/kea1PyCHpR45XKtFj1/giphy.webp | width=300)](https://youtu.be/r4k_sJbv-ro)
+[![Reference Board Maker](https://i.giphy.com/media/kea1PyCHpR45XKtFj1/giphy.webp )](https://youtu.be/r4k_sJbv-ro)
 ### Reference Board Maker
 A vision Board application that allows you to view all of your reference material at once while listening to some tunes!
 
-[![Game Demo Unity/C#](https://i.giphy.com/media/Hc8FQwi0tMrBxsB2hs/giphy.webp | width=300)](https://youtu.be/6lIj289-JDs)
+[![Game Demo Unity/C#](https://i.giphy.com/media/Hc8FQwi0tMrBxsB2hs/giphy.webp )](https://youtu.be/6lIj289-JDs)
 ### Game Demo Unity/C#
 A short game demo where I made a turn-based combat system, enemy spawner, and controllable character!
